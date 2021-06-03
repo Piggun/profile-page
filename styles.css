@@ -1,3 +1,31 @@
 header {
     text-align: center;
+    color: rgb(0,0,0,0.7);
+    padding: 20px;
+    /* text-shadow: 1px 1px 3px grey; */
+}
+
+.profile-pic{
+    border-radius: 10%;
+    border: none;
+}
+
+body{
+    /* background-image: url(images/background-image.webp); */
+    background-color: lightsalmon;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+
+
+.my-card {
+    margin: auto;
+    border-radius: 10%;
+    border: none;
+}
+
+.logo{
+    width: 50px;
+    padding: 5px;
 }
