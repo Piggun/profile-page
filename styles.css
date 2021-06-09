@@ -24,6 +24,11 @@ body {
     padding: 5px;
 }
 
+.logo-img:hover {
+    transform: scale(1.3);
+    transition: 0.1s;
+}
+
 .logos {
     text-align: center;
 }
